@@ -1,0 +1,60 @@
+.imgimg{
+margin-top:90px;
+margin-left:200px;
+width:55%;
+margin-bottom: 20px;
+}
+.asd{
+margin-top:200px;
+margin-right:250px;
+}
+.bout{
+text-align:center;
+}
+.txt{
+margin-right:200px;
+margin-top: 70px;
+}
+.txt1{
+text-align: center;
+}
+.txt3{
+text-align: center;
+}
+#about{
+margin-left:100px;
+margin-top: 80px;
+font-family: 'Merriweather Sans', sans-serif;
+
+}
+.img1{
+width:50%;
+
+}
+.img2{
+border-radius:20%;
+width: 50%;
+margin-left:210px;
+}
+.img4{
+border-radius:25%;
+width:60%;
+}
+#contact{
+text-align:center;
+font-family:'Merriweather Sans', sans-serif;
+background-color:#ebcfc4;
+}
+#navbar{
+background-color:#ebcfc4;
+}
+#hob{
+font-family: 'Prompt', sans-serif;
+}
+#edu{
+  background-color: #ebcfc4;
+}
+.but{
+margin-top: 0px;
+margin-bottom: 15px;
+}
